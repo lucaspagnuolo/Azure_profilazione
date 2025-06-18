@@ -118,9 +118,10 @@ Gli utenti verranno contattati per supporto MFA da imac@consip.it.
 Grazie""")
 
         st.markdown("""
-** definita utenza da Infrastruttura lo step successivo è riassegnare il ticket con: 
-- Tipologia: Software di produttivitò individuale 
-- Descrizione: Microsoft Office - Assistenza
+----------------------------------------------------------------------------------
+** definita utenza da Infrastruttura lo step successivo è riassegnare il ticket con:**
+- **Tipologia:** Software di produttivitò individuale 
+- **Descrizione:** Microsoft Office - Assistenza
 il Testo da utilizzare è il seguente:
 
 Si richiede cortesemente contatto utenti per MFA/accesso utente/webmail: 
