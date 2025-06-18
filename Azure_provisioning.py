@@ -116,8 +116,10 @@ def gestione_creazione_azure():
 Aggiungere all’utenza la MFA.  
 Gli utenti verranno contattati per supporto MFA da imac@consip.it.
 
-Si richiede contatto per MFA/accesso:  
+Si richiede cortesemente contatto utenti per MFA/accesso utente/webmail: 
 `{name} – {phone} – {email}`  
+
+Nota attenzione alla PSW. Grazie ciao
 """.format(name=name_fmt, phone=telefono_fmt, email=email_aziendale)
         )
         if casella_personale and sm_list:
