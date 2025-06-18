@@ -115,7 +115,7 @@ def gestione_creazione_azure():
 Aggiungere all’utenza la MFA.  
 Gli utenti verranno contattati per supporto MFA da imac@consip.it.
 
-Grazie"""
+Grazie""")
 
         st.markdown("""
 ** definita utenza da Infrastruttura lo step successivo è riassegnare il ticket con: 
