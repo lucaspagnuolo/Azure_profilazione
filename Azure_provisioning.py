@@ -116,6 +116,16 @@ def gestione_creazione_azure():
 Aggiungere all’utenza la MFA.  
 Gli utenti verranno contattati per supporto MFA da imac@consip.it.
 
+Grazie
+
+"""
+
+        st.markdown("""
+** definita utenza da Infrastruttura lo step successivo è riassegnare il ticket con: 
+- Tipologia: Software di produttivitò individuale 
+- Descrizione: Microsoft Office - Assistenza
+il Testo da utilizzare è il seguente:
+
 Si richiede cortesemente contatto utenti per MFA/accesso utente/webmail: 
 `{name} – {phone} – {email}`  
 
@@ -125,9 +135,6 @@ Nota attenzione alla PSW. Grazie ciao
         if casella_personale and sm_list:
             for sm in sm_list:
                 st.markdown(f"Webmail: https://outlook.office.com/mail/{sm}@consip.it")
-
-        st.markdown("Grazie")
-
 # Nel tuo app principale:
 if __name__ == "__main__":
     st.title("Gestione Utenze Consip")
