@@ -119,7 +119,7 @@ Grazie""")
 
         st.markdown("""
 ----------------------------------------------------------------------------------
-** definita utenza da Infrastruttura lo step successivo è riassegnare il ticket con:**
+Definita utenza bisogna riassegnare il ticket con:
 - **Tipologia:** Software di produttivitò individuale 
 - **Descrizione:** Microsoft Office - Assistenza
 il Testo da utilizzare è il seguente:
