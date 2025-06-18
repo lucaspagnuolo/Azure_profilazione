@@ -113,7 +113,6 @@ def gestione_creazione_azure():
         # MFA e contatti
         st.markdown(
             """
-**MFA & credenziali**  
 Aggiungere all’utenza la MFA.  
 Gli utenti verranno contattati per supporto MFA da imac@consip.it.
 
