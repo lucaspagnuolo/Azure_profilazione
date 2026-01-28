@@ -101,7 +101,7 @@ def gestione_creazione_azure():
 
         st.markdown("Ciao, si richiede la definizione di un’utenza Azure come sotto indicato.")
         st.markdown(md)
-        st.markdown("**Nota**: il campo “Data Fine” deve essere inserito in Azure come “Data Assunzione”.")
+        st.markdown("**Nota**: il campo “Data Fine” deve essere inserito in Azure come “EmployeeHireDate”.")
 
         # Selezione licenze e SM
         st.markdown("**Aggiungere Gruppo**\n- O365 Exchange Base CLOUD")
